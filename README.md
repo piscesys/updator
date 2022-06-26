@@ -1,6 +1,6 @@
-# CutefishOS Updator
+# Piscesys Updator
 
-CutefishOS system update tool.
+Piscesys system update tool.
 
 ## Dependencies
 
